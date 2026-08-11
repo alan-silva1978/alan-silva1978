@@ -14,7 +14,7 @@ Com 30 anos de serviço ativo na Polícia Militar do Paraná — operando desde 
 *   **IA Ética:** Estruturação de bases para futura aplicação de Inteligência Artificial na manutenção preditiva, mitigando o viés algorítmico.
 
 🚀 **Missão Principal: Projeto SISGEF**
-Idealizador do SISGEF (Sistema de Gestão de Frota), um Diário de Bordo Digital nascido de pesquisa acadêmica no CHOE da PMPR[cite: 5, 6]. O projeto ataca a fragmentação de dados e o retrabalho logístico[cite: 6]. Atualmente materializado em um **protótipo interativo**, o sistema aplica:
+Idealizador do SISGEF (Sistema de Gestão de Frota), um Diário de Bordo Digital nascido de pesquisa acadêmica no CHOE da PMPR. O projeto ataca a fragmentação de dados e o retrabalho logístico. Atualmente materializado em um **protótipo interativo**, o sistema aplica:
 *   **Usabilidade Tática:** Adoção da Lei de Fitts (botões redimensionados com alto contraste) e da Revelação Progressiva (*Progressive Disclosure*).
 *   **Sustentabilidade:** Uso da Entrada Mínima Viável e Armazenamento Frio (*Cold Storage*).
 
