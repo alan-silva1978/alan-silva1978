@@ -23,6 +23,6 @@ Idealizador do SISGEF (Sistema de Gestão de Frota), um Diário de Bordo Digital
 * **Integridade de Dados:** Garantia de padronização, consistência e rastreabilidade para apoio à decisão estratégica.
 
 🔗 **Rotas de Acesso e Contato:**
-* **LinkedIn:** https://www.linkedin.com/in/alan-carlos-eng/
-* **Repositório do SISGEF:** https://github.com/alan-silva1978/sisgef-diario-de-bordo/tree/main
-* **Protótipo Interativo (Figma):** https://www.figma.com/proto/AUOK1kXyZ3Yc1Gase0gOw6/Prot%C3%B3tipo-SISGEF-1.0---M%C3%A9dia-Alta-fidelidade?node-id=1-22&p=f&t=6Lcf25p0b2isMq8X-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A22
+* **LinkedIn:** [Conecte-se comigo (in/alan-carlos-eng)](https://www.linkedin.com/in/alan-carlos-eng/)
+* **Repositório do SISGEF:** [Acessar Código e Documentação Técnica](https://github.com/alan-silva1978/sisgef-diario-de-bordo/tree/main)
+* **Protótipo Interativo (Figma):** [Acessar Demonstração Funcional do Sistema](https://www.figma.com/proto/AUOK1kXyZ3Yc1Gase0gOw6/Prot%C3%B3tipo-SISGEF-1.0---M%C3%A9dia-Alta-fidelidade?node-id=1-22&p=f&t=6Lcf25p0b2isMq8X-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A22)
